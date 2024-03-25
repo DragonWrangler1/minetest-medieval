@@ -1,0 +1,8 @@
+# Turn off to disable the medieval hotbar
+medieval_hotbar (Turn off to disable the medieval hotbar) bool false
+
+# Turn off to disable custom sign formspec
+medieval_sign_formspec (Turn off to disable custom sign formspec) bool false
+
+# Turn off to disable custom inv formspec
+medieval_inv_formspec (Turn off to disable custom inv formspec) bool false
